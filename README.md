@@ -6,8 +6,13 @@
 - Bachelor of Science Degree in Travel Industry Management & worked 8+ years in the field
 - Career trasition is exciting but not easy.
 - Love that I am learning something new everyday
-- I’m looking to collaborate on beginner's projects mainly with R Studio
-
+  
+  
+📐 Skills
+--------------------------------------------------------------------------------------------
+- Technical:  RStudio (ggplot2, tidyverse); SQLite (JOINS, ORER BY, GROUP BY); Excel (Pivot tables, Vlookup, Charts); Tableau; QuickBooks For Small Business
+- Transferable: Retail Management; Sales Analysis; Critical Thinking; Problem Solving; Customer Service
+  
 
 📫 Connect with Me
 --------------------------------------------------------------------------------------------
