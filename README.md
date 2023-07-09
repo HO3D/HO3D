@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m Yi, a data analytics newbie from the US.
+👋🏼 Hi, I’m Yi, a data analytics beginner from the US.
 
 👩🏻‍💻 About Me
 --------------------------------------------------------------------------------------------
