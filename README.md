@@ -11,7 +11,7 @@
 
 🖇 Skills
 --------------------------------------------------------------------------------------------
-- Technical:  RStudio (ggplot2, tidyverse); SQLite (JOINS, ORER BY, GROUP BY); Excel (Pivot tables, Vlookup, Charts); Tableau; QuickBooks For Small Business
+- Technical:  RStudio; SQLite; Excel; Tableau; QuickBooks For Small Business
 - Transferable: Retail Management; Sales Analysis; Critical Thinking; Problem Solving; Customer Service
   
 </div>
