@@ -5,7 +5,7 @@
 - Recently completed a Data Analytics program and earned a certificate
 - Bachelor of Science Degree in Travel Industry Management & worked 8+ years in the field
 - Career trasition is exciting but not easy.
-- Love that I am learning something new everyday
+- Love learning something new everyday
   
   
 🔧 Skills
