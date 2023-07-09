@@ -1,4 +1,8 @@
-👋🏼 Hi, I’m Yi, a data analytics beginner from the US.
+<h2>
+  Hi there
+  <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30px"/>
+</h2>
+I’m Yi, a data analytics beginner from the US.
 
 👩🏻‍💻 About Me
 --------------------------------------------------------------------------------------------
