@@ -1,4 +1,4 @@
-👋 Hi, I’m Yi, a data analytics beginner from the US.
+👋🏼 Hi, I’m Yi, a data analytics beginner from the US.
 
 👩🏻‍💻 About Me
 --------------------------------------------------------------------------------------------
@@ -7,20 +7,33 @@
 - Career trasition is exciting but not easy.
 - Love learning something new everyday
   
-  
-🔧 Skills
+</div> 
+
+🖇 Skills
 --------------------------------------------------------------------------------------------
 - Technical:  RStudio (ggplot2, tidyverse); SQLite (JOINS, ORER BY, GROUP BY); Excel (Pivot tables, Vlookup, Charts); Tableau; QuickBooks For Small Business
 - Transferable: Retail Management; Sales Analysis; Critical Thinking; Problem Solving; Customer Service
   
+</div>
 
 📫 Connect with Me
 --------------------------------------------------------------------------------------------
-- LinkedIn
+<div align="center">
+</a>
+<a href="https://www.linkedin.com/in/yiy-ho3d/">
+    <img alt="Yi Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
 
 
 📈 My Progress
 --------------------------------------------------------------------------------------------
+
+<div align="center">
+  
+
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HO3D)](https://github.com/HO3D/github-readme-stats)
 
 
